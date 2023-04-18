@@ -406,7 +406,7 @@ footer{
         display: grid;
     }
     .hero-img img{
-        width: 768px;
+        max-width: auto;
         margin-top: 30px;
         justify-content: center;
     }
